@@ -28,4 +28,4 @@ This is a simple GitHub info card that displays the user's GitHub profile inform
 6. The user's GitHub info will be displayed
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
